@@ -1,0 +1,19 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  color: "#ffffff"
+  color_dark: "#000000"
+  image: "assets/splash/cloudy-resize-enlarge.png"
+  image_dark: "assets/splash/cloudy-resize-enlarge.png"
+  branding: "assets/splash/branding-test.png"
+  branding_bottom_padding: 24
+
+  android_12:
+    color: "#ffffff"
+    color_dark: "#000000"
+    image: "assets/splash/cloudy-resize-enlarge.png"
+    image_dark: "assets/splash/cloudy-resize-enlarge.png"
+    branding: "assets/splash/branding-test.png"
+    branding_bottom_padding: 24
